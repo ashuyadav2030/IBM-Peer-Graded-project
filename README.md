@@ -1,1 +1,1 @@
-# IBM-Peer-Graded-project
+# Image Classification
