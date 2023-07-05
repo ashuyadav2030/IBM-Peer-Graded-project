@@ -1,8 +1,8 @@
 # Image-Classification
 
-My project aims to develop an image classification system for popular personality identification. Throughout the project, I follow a series of steps in order to achieve this goal.
+My project aims to develop an image classification system for popular personality identification. Throughout the project, I follow a series of steps to achieve this goal.
 
-    Objective:  The objective of the project is to accurately classify images of sports celebrities by leveraging machine learning techniques.
+    Objective:  The objective of the project is to accurately classify images of popular personalities by leveraging machine learning techniques.
 
     Importing Libraries: I start by importing the necessary libraries and frameworks that will be used throughout the project.
 
@@ -22,4 +22,4 @@ My project aims to develop an image classification system for popular personalit
 
     Class Dictionary Conversion: To facilitate the interpretation of the model's predictions, I convert the class dictionary into JSON format, making it easier to map class labels to sports celebrities.
 
-By following these steps, my project successfully develops an image classification system for sports celebrity identification. The project showcases my proficiency in data preprocessing, feature engineering, model selection, evaluation, and model deployment.
+By following these steps, my project successfully develops an image classification system for popular personality identification. The project showcases my proficiency in data preprocessing, feature engineering, model selection, evaluation, and model deployment.
